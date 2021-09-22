@@ -1,4 +1,7 @@
 body{
     color: green;
     background-color:gray;
+    margin-left: -4%;
+    position: initial;
+    text-align: center;
 }
